@@ -63,7 +63,7 @@ const HomePage: React.FC = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="relative">
               <img 
-                src="https://picsum.photos/seed/dentist/800/600" 
+                src="https://i.ibb.co.com/N6sDVMc2/abhi-pal.png"
                 alt="Dr Abhi Pal" 
                 className="rounded-2xl shadow-2xl relative z-10"
               />
