@@ -126,6 +126,130 @@ the-university-dental-and-implant-centre/
 
 ---
 
+## 🚀 Deployment
+
+### Deploy to Vercel
+
+This project is configured for seamless deployment to **Vercel**, the modern hosting platform for frontend developers.
+
+#### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn package manager
+- Vercel account (free tier available)
+
+#### Quick Deployment
+
+1. **Install Vercel CLI**
+   ```bash
+   npm install -g vercel
+   ```
+
+2. **Login to Vercel**
+   ```bash
+   vercel login
+   ```
+
+3. **Deploy to production**
+   ```bash
+   npm run deploy
+   ```
+
+4. **Or deploy preview**
+   ```bash
+   npm run deploy:preview
+   ```
+
+#### Environment Variables
+
+1. Go to your Vercel dashboard
+2. Select your project
+3. Navigate to **Settings** → **Environment Variables**
+4. Add the following variables:
+   - `VITE_GEMINI_API_KEY`: Your Gemini API key (if needed)
+
+#### Automated Deployment
+
+With Vercel's Git integration:
+- **Automatic deployments** on every push to main branch
+- **Preview deployments** for pull requests
+- **Custom domains** with SSL certificates included
+- **Global CDN** for fast worldwide access
+
+#### Performance Features
+- **Edge Network**: Global content delivery
+- **Image Optimization**: Automatic image compression
+- **Code Splitting**: Optimized bundle sizes
+- **SEO Ready**: Meta tags and structured data
+
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+- **Node.js** (v16 or higher)
+- **npm** or **yarn** package manager
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone <repository-url>
+   cd the-university-dental-and-implant-centre
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Set up environment variables**
+   ```bash
+   # Copy the example environment file
+   cp .env.example .env.local
+   
+   # Edit .env.local and add your values
+   nano .env.local
+   ```
+
+4. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+5. **Build for production**
+   ```bash
+   npm run build
+   ```
+
+6. **Preview production build**
+   ```bash
+   npm run preview
+   ```
+
+### Available Scripts
+
+```bash
+# Development server (http://localhost:3000)
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
+
+# Deploy to Vercel (production)
+npm run deploy
+
+# Deploy preview to Vercel
+npm run deploy:preview
+
+# Type checking
+npx tsc --noEmit
+```
+
+---
+
 ## 💼 Professional Services
 
 As a **full-stack developer** with expertise in modern web technologies, I provide comprehensive digital solutions for businesses and healthcare providers.
@@ -214,21 +338,9 @@ Looking for a **skilled developer** to bring your ideas to life? I specialize in
 
 Ready to elevate your digital presence? Let's discuss your project and create something exceptional.
 
-**📧 Email**: [your-email@domain.com]  
-**💼 LinkedIn**: [Your LinkedIn Profile]  
-**🌐 Portfolio**: [Your Portfolio Website]  
-**📱 WhatsApp**: [Your Phone Number]  
-
----
-
-## 📧 Contact
-
-### **The University Dental and Implant Centre**
-
-**📞 Phone**: 0121 687 8882  
-**📧 Email**: contact@universitydental.co.uk  
-**🌐 Website**: [Practice Website](#)  
-**📍 Address**: Birmingham, United Kingdom  
+**📧 Email**: [jabarahmed332@mail.com]  
+**💼 LinkedIn**: [linkedin.com/in/jaberahmed435]  
+**🌐 Portfolio**: [www.jaberdevhub.com]  
 
 ---
 
