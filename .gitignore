@@ -1,0 +1,175 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+out/
+.next/
+.nuxt/
+.vite/
+
+# Environment files (CRITICAL: Protect API keys and secrets)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.development
+.env.production
+.env.*.local
+
+# API Keys and Configuration (Protect sensitive data)
+*.key
+*.pem
+*.p12
+*.pfx
+config/secrets.js
+config/production.js
+config/keys.js
+secrets.json
+credentials.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+*.accdb
+
+# Cache and temporary files
+.cache/
+.parcel-cache/
+.turbo/
+*.cache
+*.tmp
+*.temp
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and development tools
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/workspace.code-workspace
+*.sublime-project
+*.sublime-workspace
+.idea/
+*.iml
+*.iws
+*.ipr
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Package managers
+yarn-error.log
+.npm
+.yarn-integrity
+.pnpm-debug.log*
+
+# Testing
+coverage/
+.nyc_output/
+*.lcov
+.jest/
+test-results/
+
+# Documentation build
+docs/_build/
+site/
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+*.save
+*.bakup
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Source code protection (Prevent easy copying)
+# Uncomment the following lines to hide source code entirely:
+# src/
+# pages/
+# components/
+# lib/
+# utils/
+# *.tsx
+# *.ts
+# *.jsx
+# *.js
+
+# Production builds (uncomment to prevent sharing)
+# /dist
+# /build
+# /out
+
+# Professional development files
+.project
+.classpath
+.settings/
+*.launch
+*.deployment
+
+# Security and sensitive information
+ssl/
+certs/
+*.p12
+*.keystore
+*.jks
+security.properties
+keystore.properties
+
+# Project specific (customize as needed)
+*.csv
+*.xlsx
+*.xls
+uploads/
+user-data/
+client-data/
+
+# Monitoring and analytics
+.vercel
+.netlify
+.sentryclirc
+sentry.properties
