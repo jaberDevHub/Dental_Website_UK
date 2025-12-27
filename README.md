@@ -100,6 +100,7 @@ As a **full-stack developer** with expertise in modern web technologies, I provi
 - **Database Design** - Efficient data structures
 - **Authentication** - Secure user management systems
 - **Payment Integration** - Stripe, PayPal, and custom solutions
+
 ## 🏆 My Expertise
 
 ### ⚡ Frontend Arsenal
@@ -107,36 +108,20 @@ As a **full-stack developer** with expertise in modern web technologies, I provi
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js" />
 </p>
 
-- **React** (16 → 19) — Hooks, performance, modern patterns  
-- **Next.js** — Full-stack React, SSR & App Router  
-- **Vue.js** — Progressive UI development  
-- **Angular** — Enterprise-scale applications  
-- **TypeScript** — Type-safe, scalable code  
-- **JavaScript (ES6+)** — Modern, clean syntax  
-
 ---
 
 ### 🧠 Backend Power
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,php,postgres,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,firebase" />
 </p>
-
-- **Node.js** — Scalable APIs & services  
-- **Python** — Django, Flask, FastAPI  
-- **PHP** — Laravel, WordPress, Custom CMS  
-- **Databases** — PostgreSQL, MySQL, MongoDB, Redis  
 
 ---
 
 ### 🚀 DevOps & Tooling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker,github,gitlab,jest,cypress" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,github" />
 </p>
 
-- **Cloud** — AWS, Vercel, Netlify, DigitalOcean  
-- **CI/CD** — GitHub Actions, GitLab CI  
-- **Version Control** — Git, GitHub, GitLab  
-- **Testing** — Jest, Cypress, Playwright  
 
 ---
 
