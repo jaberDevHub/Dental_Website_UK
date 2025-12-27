@@ -173,3 +173,5 @@ client-data/
 .netlify
 .sentryclirc
 sentry.properties
+
+.vercel

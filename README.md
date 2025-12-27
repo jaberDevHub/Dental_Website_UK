@@ -33,96 +33,46 @@
 
 This is a **modern, responsive web application** built for **The University Dental and Implant Centre**, a premier dental clinic located in Birmingham. The website showcases their comprehensive dental services, from routine checkups to advanced implant procedures, while providing patients with an intuitive interface to learn about treatments, view fees, and book appointments.
 
-### 🏥 About the Clinic
-
-- **Location**: Birmingham, United Kingdom
-- **Specialization**: Dental care and implant procedures
-- **Services**: NHS and Private dental treatments
-- **Principal**: Dr Abhi Pal
-- **Contact**: 0121 687 8882
-
 ---
-
 ## ✨ Features
 
-### 🏠 **Core Pages**
-- **Homepage**: Welcoming hero section with practice overview
-- **Treatments**: Comprehensive list of dental services
-- **10-Point Checkup**: Detailed explanation of their signature assessment
-- **Care Options**: NHS, Private, and Denplan payment options
-- **Fees**: Transparent pricing information
-- **Team**: Professional staff profiles and credentials
-- **Location**: Practice location and directions
-- **Quality**: Patient safety and clinical excellence information
-- **Appointments**: Easy booking system
+### 🏠 Core Pages
+- Homepage, Treatments, 10-Point Checkup  
+- Care Options (NHS / Private / Denplan)  
+- Fees, Team, Location, Quality  
+- Appointments & Online Booking  
 
-### 🎨 **Design & UX**
-- **Responsive Design**: Optimized for desktop, tablet, and mobile devices
-- **Modern UI**: Clean, professional interface with Tailwind CSS
-- **Smooth Animations**: Subtle transitions and hover effects
-- **Accessibility**: WCAG compliant design elements
-- **Fast Loading**: Optimized images and code splitting
+### 🎨 Design & UX
+- Fully responsive (desktop, tablet, mobile)
+- Modern UI with Tailwind CSS
+- Smooth animations & hover effects
+- Accessible and fast-loading
 
-### 🔒 **Security & Performance**
-- **Protected Environment**: Sensitive configuration files secured
-- **Modern Build System**: Vite for fast development and building
-- **SEO Optimized**: Meta tags and structured data
-- **Type Safety**: Full TypeScript implementation
+### 🔒 Security & Performance
+- Secure environment configuration
+- SEO-optimized structure
+- Type-safe codebase
+- Fast builds with Vite
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Frontend Framework**
-- **React 19.2.3** - Modern React with latest features
-- **TypeScript 5.8.2** - Type-safe JavaScript development
-- **Vite 6.2.0** - Next-generation build tool
+### Frontend
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white)
 
-### **Styling & UI**
-- **Tailwind CSS 3.4.0** - Utility-first CSS framework
-- **Inter Font** - Professional typography from Google Fonts
-- **Lucide React** - Beautiful, customizable icons
-- **Custom CSS** - Gradient backgrounds and animations
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css&logoColor=white)
+![Inter](https://img.shields.io/badge/Font-Inter-000000?logo=googlefonts&logoColor=white)
+![Lucide](https://img.shields.io/badge/Icons-Lucide-000000?logo=lucide&logoColor=white)
 
-### **Routing & Navigation**
-- **React Router DOM 7.11.0** - Client-side routing
-- **Link Components** - SEO-friendly navigation
+### Routing & Dev Tools
+![React Router](https://img.shields.io/badge/React_Router-7-CA4245?logo=react-router&logoColor=white)
+![ES Modules](https://img.shields.io/badge/ES_Modules-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HMR](https://img.shields.io/badge/HMR-Vite-646CFF?logo=vite&logoColor=white)
 
-### **Development Tools**
-- **ES Modules** - Modern JavaScript modules
-- **ESM.sh CDN** - Lightning-fast dependency loading
-- **Hot Module Replacement** - Instant development updates
-
----
-
-## 📁 Project Structure
-
-```
-the-university-dental-and-implant-centre/
-├── public/
-│   └── index.html              # Main HTML template
-├── src/
-│   ├── components/             # Reusable React components
-│   ├── pages/                  # Page components
-│   │   ├── HomePage.tsx       # Landing page
-│   │   ├── AppointmentsPage.tsx
-│   │   ├── CareOptionsPage.tsx
-│   │   ├── CheckupPage.tsx
-│   │   ├── FeesPage.tsx
-│   │   ├── LocationPage.tsx
-│   │   ├── QualityPage.tsx
-│   │   ├── TeamPage.tsx
-│   │   └── TreatmentsPage.tsx
-│   ├── App.tsx                 # Main application component
-│   ├── index.tsx              # Application entry point
-│   ├── constants.tsx          # Application constants
-│   ├── types.ts               # TypeScript type definitions
-│   └── vite-env.d.ts          # Vite environment types
-├── package.json               # Dependencies and scripts
-├── tsconfig.json             # TypeScript configuration
-├── vite.config.ts            # Vite build configuration
-└── .gitignore                # Git ignore rules
-```
 
 ---
 
