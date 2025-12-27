@@ -1,4 +1,4 @@
-# 🦷 The University Dental and Implant Centre Website
+#  The University Dental and Implant Centre Website
 
 <div align="center">
 
