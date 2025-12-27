@@ -100,28 +100,48 @@ As a **full-stack developer** with expertise in modern web technologies, I provi
 - **Database Design** - Efficient data structures
 - **Authentication** - Secure user management systems
 - **Payment Integration** - Stripe, PayPal, and custom solutions
+## 🏆 My Expertise
 
-### 🏆 **My Expertise**
+### ⚡ Frontend Arsenal
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js" />
+</p>
 
-#### **Frontend Technologies**
-- **React** (16, 17, 18, 19) - Latest React features and hooks
-- **Next.js** - Full-stack React framework
-- **Vue.js** - Progressive JavaScript framework
-- **Angular** - Enterprise-grade web applications
-- **TypeScript** - Type-safe development
-- **JavaScript (ES6+)** - Modern JavaScript features
+- **React** (16 → 19) — Hooks, performance, modern patterns  
+- **Next.js** — Full-stack React, SSR & App Router  
+- **Vue.js** — Progressive UI development  
+- **Angular** — Enterprise-scale applications  
+- **TypeScript** — Type-safe, scalable code  
+- **JavaScript (ES6+)** — Modern, clean syntax  
 
-#### **Backend Technologies**
-- **Node.js** - Server-side JavaScript
-- **Python** - Django, Flask, FastAPI
-- **PHP** - Laravel, WordPress, custom CMS
-- **Database** - PostgreSQL, MySQL, MongoDB, Redis
+---
 
-#### **DevOps & Tools**
-- **Cloud Platforms** - AWS, Vercel, Netlify, Digital Ocean
-- **CI/CD** - GitHub Actions, GitLab CI
-- **Version Control** - Git, GitHub, GitLab
-- **Testing** - Jest, Cypress, Playwright
+### 🧠 Backend Power
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,postgres,mysql,mongodb,redis" />
+</p>
+
+- **Node.js** — Scalable APIs & services  
+- **Python** — Django, Flask, FastAPI  
+- **PHP** — Laravel, WordPress, Custom CMS  
+- **Databases** — PostgreSQL, MySQL, MongoDB, Redis  
+
+---
+
+### 🚀 DevOps & Tooling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker,github,gitlab,jest,cypress" />
+</p>
+
+- **Cloud** — AWS, Vercel, Netlify, DigitalOcean  
+- **CI/CD** — GitHub Actions, GitLab CI  
+- **Version Control** — Git, GitHub, GitLab  
+- **Testing** — Jest, Cypress, Playwright  
+
+---
+
+🔥 *Production-ready. Performance-focused. Built to scale.*
+
 
 ---
 
